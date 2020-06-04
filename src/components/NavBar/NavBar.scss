@@ -8,7 +8,7 @@
     grid-template-columns: auto 1fr;
 }
 
-.nav-links{
+.navlinks{
 align-self:center;
 list-style-type:none;
 display: grid;
@@ -17,7 +17,7 @@ text-align: center;
 
 }
 
-.nav.link{
+.navlink{
   color: $mainBlack;
   text-transform:capitalize ;
    text-decoration: none;

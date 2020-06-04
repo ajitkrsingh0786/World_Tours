@@ -5,15 +5,15 @@ export default function NavBar(){
     return(
      <nav className="navbar">
       <img src={logo} alt="world tours logo"/>
-       <ul className="nav-links">
+       <ul className="navlinks">
         <li>
-            <a href="/" classNave="nav-links">Home</a>
+            <a href="/" classnave="navlink">Home</a>
             </li>
             <li>
-            <a href="/" classNave="nav-links">About</a>
+            <a href="/" classnave="navlink">About</a>
             </li>
             <li>
-            <a href="/" classNave="nav-links">Tours</a>
+            <a href="/" classnave="navlink">Tours</a>
             </li>
         </ul>
      </nav>
